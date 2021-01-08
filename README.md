@@ -27,6 +27,10 @@ git innit
 2. I was born in Moscow, Russia
 3. I've never broken a single bone
 
+## Task list
+- [x] Survive 2020
+- [ ] Succeed in 2021
+
 ## Relative link
 [Take a look at my dog once again](#meet-my-dog)
 
