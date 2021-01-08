@@ -21,6 +21,12 @@ British people be like:
 git innit
 
 ```
+## Random facts list
+
+1. I play an accordion
+2. I was born in Moscow, Russia
+3. I've never broken a single bone
+
 ## Relative link
 [dog](#meet-my-dog)
 
