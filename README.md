@@ -28,7 +28,7 @@ git innit
 3. I've never broken a single bone
 
 ## Relative link
-[dog](#meet-my-dog)
+[Take a look at my dog once again](#meet-my-dog)
 
 ### Connect with me on LinkedIn
 [Click here](https://www.linkedin.com/in/victoria-edeeva/)
