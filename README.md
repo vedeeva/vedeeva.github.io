@@ -8,7 +8,7 @@
 
 ## Meet My dog
 
-![image](/img/Screen Shot 2021-01-08 at 3.01.12 PM.png)
+![image](img/Screen Shot 2021-01-08 at 3.01.12 PM.png)
 
 ### Connect with me on LinkedIn
 [Click here](https://www.linkedin.com/in/victoria-edeeva/)
