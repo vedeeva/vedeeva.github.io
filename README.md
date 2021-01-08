@@ -7,7 +7,7 @@
 ***My favourite Programming Language would probably be Java.***
 
 ## Meet My dog
-
+[link](#relative-link)
 ![image](/img/Screen Shot 2021-01-08 at 3.01.12 PM.png)
 
 ## Favourite Quote
@@ -22,7 +22,7 @@ git innit
 
 ```
 ## Relative link
-[take a look at my do once again](#meet-my-dog)
+
 
 ### Connect with me on LinkedIn
 [Click here](https://www.linkedin.com/in/victoria-edeeva/)
